@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="5D645628-A6D1-4D6B-6ED7-F965E83CE147" ownedBy="05F5B702-2967-49B1-FEAA-9B2AA0184513">
+  <arch:name>
+    <arch:string>Level III</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Stratum</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_17_9cd844864</oc:source>
+      </oc:obs_metadata>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">This project provided zooarchaeological data. Please refer to other publications and sources for additional information about the strata and other archaeological contexts associated with this site.</div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/E842F47E-9C61-48C3-0D0D-A35238304F52">
+        <oc:name>Köşk Höyük</oc:name>
+        <oc:id>E842F47E-9C61-48C3-0D0D-A35238304F52</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/7DA2ECEC-7CDC-4BB7-0C4D-2F621232A2BE">
+        <oc:name>Area H/11</oc:name>
+        <oc:id>7DA2ECEC-7CDC-4BB7-0C4D-2F621232A2BE</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/F2EC7B6B-3FB9-44D4-169F-72CA446D2572">
+        <oc:name>Bone 12341</oc:name>
+        <oc:id>F2EC7B6B-3FB9-44D4-169F-72CA446D2572</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>loose tooth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A9CB52F2-E1D4-4434-E8D9-742B2F24F23C">
+        <oc:name>Bone 12342</oc:name>
+        <oc:id>A9CB52F2-E1D4-4434-E8D9-742B2F24F23C</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible with teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/61AF9EC2-05F2-4AB7-778E-7824E5AE38D6">
+        <oc:name>Bone 12343</oc:name>
+        <oc:id>61AF9EC2-05F2-4AB7-778E-7824E5AE38D6</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7AC965AE-1522-4C20-ED9A-0D4E8FACA07B">
+        <oc:name>Bone 12344</oc:name>
+        <oc:id>7AC965AE-1522-4C20-ED9A-0D4E8FACA07B</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B7F92F31-FB1C-4F97-B052-9495946711F4">
+        <oc:name>Bone 12345</oc:name>
+        <oc:id>B7F92F31-FB1C-4F97-B052-9495946711F4</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible with teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6C595E7C-37CD-43AF-A354-49EAB5B4CA7C">
+        <oc:name>Bone 12346</oc:name>
+        <oc:id>6C595E7C-37CD-43AF-A354-49EAB5B4CA7C</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BF9F0C82-7BB6-4672-104F-27EF74A3C5AF">
+        <oc:name>Bone 12347</oc:name>
+        <oc:id>BF9F0C82-7BB6-4672-104F-27EF74A3C5AF</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/61635990-9BBD-44CF-1E87-E7F682224882">
+        <oc:name>Bone 12348</oc:name>
+        <oc:id>61635990-9BBD-44CF-1E87-E7F682224882</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E4268B73-BF54-46BA-7BBE-777A11F9D687">
+        <oc:name>Bone 12349</oc:name>
+        <oc:id>E4268B73-BF54-46BA-7BBE-777A11F9D687</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/323235A0-CC31-45CF-F7F4-1CE867165AD5">
+        <oc:name>Bone 12350</oc:name>
+        <oc:id>323235A0-CC31-45CF-F7F4-1CE867165AD5</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible with teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/58AA6AA4-A61E-4B0A-ADD1-C58D08111644">
+        <oc:name>Bone 12351</oc:name>
+        <oc:id>58AA6AA4-A61E-4B0A-ADD1-C58D08111644</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/699A56C3-E67C-47CE-3DA3-EBE68E63CE1F">
+        <oc:name>Bone 12352</oc:name>
+        <oc:id>699A56C3-E67C-47CE-3DA3-EBE68E63CE1F</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/53FCBE6F-1B2F-45C9-FF0B-448B2409F7FA">
+        <oc:name>Bone 12353</oc:name>
+        <oc:id>53FCBE6F-1B2F-45C9-FF0B-448B2409F7FA</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/060EB87F-A804-41F2-BCB5-C1DD438A04C9">
+        <oc:name>Bone 12354</oc:name>
+        <oc:id>060EB87F-A804-41F2-BCB5-C1DD438A04C9</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/66B50117-B98A-4E3A-DEE3-ABCDDC46DF3E">
+        <oc:name>Bone 12355</oc:name>
+        <oc:id>66B50117-B98A-4E3A-DEE3-ABCDDC46DF3E</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible without teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/66BEB7D0-4EA3-4616-E2CE-D1FDEBFA2DC9">
+        <oc:name>Bone 12356</oc:name>
+        <oc:id>66BEB7D0-4EA3-4616-E2CE-D1FDEBFA2DC9</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible without teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5554A085-B75F-4A7F-95A8-B8AF6F45AF26">
+        <oc:name>Bone 12357</oc:name>
+        <oc:id>5554A085-B75F-4A7F-95A8-B8AF6F45AF26</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible without teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/479B3B02-1FF1-4E9E-606C-3D60E8A6E924">
+        <oc:name>Bone 12358</oc:name>
+        <oc:id>479B3B02-1FF1-4E9E-606C-3D60E8A6E924</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible without teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F578372E-065F-4AF5-DA18-8F4820C8826B">
+        <oc:name>Bone 12359</oc:name>
+        <oc:id>F578372E-065F-4AF5-DA18-8F4820C8826B</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible with teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/93AFE49A-E447-474B-AB3C-4D58074B83E3">
+        <oc:name>Bone 12360</oc:name>
+        <oc:id>93AFE49A-E447-474B-AB3C-4D58074B83E3</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/ABED8E98-12FE-4731-D414-B6BB7714CE93">
+        <oc:name>Bone 12361</oc:name>
+        <oc:id>ABED8E98-12FE-4731-D414-B6BB7714CE93</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/62AF65CD-8718-425F-5F90-A9C5DC59131E">
+        <oc:name>Bone 12362</oc:name>
+        <oc:id>62AF65CD-8718-425F-5F90-A9C5DC59131E</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible with teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6A40636E-23A9-4A5C-B5A1-8EFA34112166">
+        <oc:name>Bone 12363</oc:name>
+        <oc:id>6A40636E-23A9-4A5C-B5A1-8EFA34112166</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7344F465-132C-47D8-65EB-DB99D6E3AED9">
+        <oc:name>Bone 12364</oc:name>
+        <oc:id>7344F465-132C-47D8-65EB-DB99D6E3AED9</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/16F21E33-3132-45D7-276D-C6BF7C99C618">
+        <oc:name>Bone 12365</oc:name>
+        <oc:id>16F21E33-3132-45D7-276D-C6BF7C99C618</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F0B42270-EC89-4E5A-71E0-5B5554330D34">
+        <oc:name>Bone 12366</oc:name>
+        <oc:id>F0B42270-EC89-4E5A-71E0-5B5554330D34</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible with teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3D9E2F23-D4D8-42BC-7593-87E1ACADD842">
+        <oc:name>Bone 12367</oc:name>
+        <oc:id>3D9E2F23-D4D8-42BC-7593-87E1ACADD842</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C1CB8715-DB9C-452B-74F4-3C2C76BCCFEB">
+        <oc:name>Bone 12368</oc:name>
+        <oc:id>C1CB8715-DB9C-452B-74F4-3C2C76BCCFEB</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>mandible without teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3C4DA1E6-566F-4496-8126-21DDD75DB4F7">
+        <oc:name>Bone 12369</oc:name>
+        <oc:id>3C4DA1E6-566F-4496-8126-21DDD75DB4F7</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>loose tooth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A054E53A-FF50-42AD-D779-B4B6E4704B93">
+        <oc:name>Bone 12370</oc:name>
+        <oc:id>A054E53A-FF50-42AD-D779-B4B6E4704B93</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>loose tooth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B2E9B791-3A5C-477E-4A2B-099A27D4E479">
+        <oc:name>Bone 12371</oc:name>
+        <oc:id>B2E9B791-3A5C-477E-4A2B-099A27D4E479</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>loose tooth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/12C397D4-C9C8-460C-8EEE-0E964F94EBDC">
+        <oc:name>Bone 12372</oc:name>
+        <oc:id>12C397D4-C9C8-460C-8EEE-0E964F94EBDC</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>loose tooth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/063A7DC8-9682-4D1C-C45D-034B8D32B7B2">
+        <oc:name>Bone 12373</oc:name>
+        <oc:id>063A7DC8-9682-4D1C-C45D-034B8D32B7B2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>loose tooth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4678E664-C529-4040-9EE8-EF3AFE7B1A62">
+        <oc:name>Bone 12374</oc:name>
+        <oc:id>4678E664-C529-4040-9EE8-EF3AFE7B1A62</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>loose tooth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1A024E5D-D3EF-4C64-FCAF-4371E3718F0A">
+        <oc:name>Bone 12375</oc:name>
+        <oc:id>1A024E5D-D3EF-4C64-FCAF-4371E3718F0A</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>loose tooth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/148FBA79-72A6-4D82-90B6-6219E536D51A">
+        <oc:name>Bone 12376</oc:name>
+        <oc:id>148FBA79-72A6-4D82-90B6-6219E536D51A</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>axis</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CABB6FC2-83BF-4135-6C91-11815808F6A4">
+        <oc:name>Bone 12377</oc:name>
+        <oc:id>CABB6FC2-83BF-4135-6C91-11815808F6A4</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>petrous</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6BA48B3F-7DFC-48AA-6462-C292C08F3D29">
+        <oc:name>Bone 12378</oc:name>
+        <oc:id>6BA48B3F-7DFC-48AA-6462-C292C08F3D29</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>petrous</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/856570A1-245B-41A8-42D0-2DD5F59FBBB8">
+        <oc:name>Bone 12379</oc:name>
+        <oc:id>856570A1-245B-41A8-42D0-2DD5F59FBBB8</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>petrous</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EB850061-273B-49BE-3DAF-45EA643FAEB1">
+        <oc:name>Bone 12380</oc:name>
+        <oc:id>EB850061-273B-49BE-3DAF-45EA643FAEB1</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>petrous</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/71C3AC33-CEC1-4CA1-11A5-B64686912741">
+        <oc:name>Bone 12381</oc:name>
+        <oc:id>71C3AC33-CEC1-4CA1-11A5-B64686912741</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>petrous</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/ECDC87AD-2BFA-4B16-AFB1-408BD1C66588">
+        <oc:name>Bone 12382</oc:name>
+        <oc:id>ECDC87AD-2BFA-4B16-AFB1-408BD1C66588</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>petrous</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F46A0193-ECD6-41CF-D9B6-78725E2AE2EB">
+        <oc:name>Bone 12383</oc:name>
+        <oc:id>F46A0193-ECD6-41CF-D9B6-78725E2AE2EB</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>occipital</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/54577DEE-7646-427C-DEA0-C63BF0D35418">
+        <oc:name>Bone 12384</oc:name>
+        <oc:id>54577DEE-7646-427C-DEA0-C63BF0D35418</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>occipital</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B93EF870-39F8-4C79-1471-D1198C7A1C7D">
+        <oc:name>Bone 12385</oc:name>
+        <oc:id>B93EF870-39F8-4C79-1471-D1198C7A1C7D</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>scapula</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AA271E7D-CB26-4D0E-2C53-E6B11EB82958">
+        <oc:name>Bone 12386</oc:name>
+        <oc:id>AA271E7D-CB26-4D0E-2C53-E6B11EB82958</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>scapula</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/88D761FD-234D-4C96-437E-8DC38FA4FAB1">
+        <oc:name>Bone 12387</oc:name>
+        <oc:id>88D761FD-234D-4C96-437E-8DC38FA4FAB1</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>scapula</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/147D8202-3AEC-41E1-BA7A-FBB6C4A74F02">
+        <oc:name>Bone 12388</oc:name>
+        <oc:id>147D8202-3AEC-41E1-BA7A-FBB6C4A74F02</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>humerus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8361EA02-CEAE-48D7-1432-9DDFDC3F2CCF">
+        <oc:name>Bone 12389</oc:name>
+        <oc:id>8361EA02-CEAE-48D7-1432-9DDFDC3F2CCF</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>humerus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/99B54AD9-A640-490B-585D-89E06C61DE5C">
+        <oc:name>Bone 12390</oc:name>
+        <oc:id>99B54AD9-A640-490B-585D-89E06C61DE5C</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>humerus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5CE5D779-4BF7-4652-F9C8-72B04ECB6F64">
+        <oc:name>Bone 12391</oc:name>
+        <oc:id>5CE5D779-4BF7-4652-F9C8-72B04ECB6F64</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>humerus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F40EF390-4F74-4EC9-E88F-AA55E7CA96DA">
+        <oc:name>Bone 12392</oc:name>
+        <oc:id>F40EF390-4F74-4EC9-E88F-AA55E7CA96DA</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>humerus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B05B9629-7653-482C-FD81-15602D5F7DA2">
+        <oc:name>Bone 12393</oc:name>
+        <oc:id>B05B9629-7653-482C-FD81-15602D5F7DA2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>humerus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DC827C9C-79DE-4BE6-5491-1EB20652884A">
+        <oc:name>Bone 12394</oc:name>
+        <oc:id>DC827C9C-79DE-4BE6-5491-1EB20652884A</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>radius</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4DC8CF91-271B-4E3E-9344-B05FB09FBD2F">
+        <oc:name>Bone 12395</oc:name>
+        <oc:id>4DC8CF91-271B-4E3E-9344-B05FB09FBD2F</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>radius</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4EB5BB8B-C550-4221-544E-5C15A192DCF2">
+        <oc:name>Bone 12396</oc:name>
+        <oc:id>4EB5BB8B-C550-4221-544E-5C15A192DCF2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>radius</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/74C969E6-617F-4BD6-5D7F-632DCC45F191">
+        <oc:name>Bone 12397</oc:name>
+        <oc:id>74C969E6-617F-4BD6-5D7F-632DCC45F191</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>radius</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/827F64B5-47AB-42E7-C2CC-6A0C8447ECA5">
+        <oc:name>Bone 12398</oc:name>
+        <oc:id>827F64B5-47AB-42E7-C2CC-6A0C8447ECA5</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>radius</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7B7B5EC6-97B0-47E2-1A29-5786EFE384DE">
+        <oc:name>Bone 12399</oc:name>
+        <oc:id>7B7B5EC6-97B0-47E2-1A29-5786EFE384DE</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>radius</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AC6E732D-5814-4B82-2C39-B5AB19394A08">
+        <oc:name>Bone 12400</oc:name>
+        <oc:id>AC6E732D-5814-4B82-2C39-B5AB19394A08</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ulna</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/64726575-FD04-4AC1-0E80-778EAFD4CF95">
+        <oc:name>Bone 12401</oc:name>
+        <oc:id>64726575-FD04-4AC1-0E80-778EAFD4CF95</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ulna</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/79FBA238-B48E-45CB-A1E2-256DE0FBF5C8">
+        <oc:name>Bone 12402</oc:name>
+        <oc:id>79FBA238-B48E-45CB-A1E2-256DE0FBF5C8</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ulna</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FAF6A5A8-5425-4057-0019-31A7E772B6C2">
+        <oc:name>Bone 12403</oc:name>
+        <oc:id>FAF6A5A8-5425-4057-0019-31A7E772B6C2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>femur</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5D5E6C80-5505-4AE8-E309-43B5F30C145C">
+        <oc:name>Bone 12404</oc:name>
+        <oc:id>5D5E6C80-5505-4AE8-E309-43B5F30C145C</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>femur</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E43DD175-75ED-4DEC-5384-60BFA3C93B3C">
+        <oc:name>Bone 12405</oc:name>
+        <oc:id>E43DD175-75ED-4DEC-5384-60BFA3C93B3C</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>femur</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/701823F1-F164-47FA-F19C-83657993FC57">
+        <oc:name>Bone 12406</oc:name>
+        <oc:id>701823F1-F164-47FA-F19C-83657993FC57</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>femur</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9CF8C82B-C72B-4218-5E93-7B00EDBD832E">
+        <oc:name>Bone 12407</oc:name>
+        <oc:id>9CF8C82B-C72B-4218-5E93-7B00EDBD832E</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>femur</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FE9806A8-0417-4B08-F3B5-D46D8AB34513">
+        <oc:name>Bone 12408</oc:name>
+        <oc:id>FE9806A8-0417-4B08-F3B5-D46D8AB34513</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>femur</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B861DE89-7578-4B23-3505-8119B06B7BA5">
+        <oc:name>Bone 12409</oc:name>
+        <oc:id>B861DE89-7578-4B23-3505-8119B06B7BA5</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>femur</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/ABDF44B8-C74D-4C00-6225-7D6CBBAC12C2">
+        <oc:name>Bone 12410</oc:name>
+        <oc:id>ABDF44B8-C74D-4C00-6225-7D6CBBAC12C2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>femur</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2B2D4E95-0FD9-499A-3A64-AE3ABBE4C698">
+        <oc:name>Bone 12411</oc:name>
+        <oc:id>2B2D4E95-0FD9-499A-3A64-AE3ABBE4C698</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>femur</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/06DBBBF0-3F31-4353-2788-735EFD2B5F63">
+        <oc:name>Bone 12412</oc:name>
+        <oc:id>06DBBBF0-3F31-4353-2788-735EFD2B5F63</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ilium + ischium</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6088134F-B283-41A5-A82C-10CCF79FAEC8">
+        <oc:name>Bone 12413</oc:name>
+        <oc:id>6088134F-B283-41A5-A82C-10CCF79FAEC8</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ilium</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6CBF6418-F219-4A54-1F27-BA71689D6024">
+        <oc:name>Bone 12414</oc:name>
+        <oc:id>6CBF6418-F219-4A54-1F27-BA71689D6024</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ischium</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/06440265-4429-499D-F16C-5FFDB1B6A5A0">
+        <oc:name>Bone 12415</oc:name>
+        <oc:id>06440265-4429-499D-F16C-5FFDB1B6A5A0</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ischium</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9B978C2D-ACEE-44A7-87B6-77F9247D0906">
+        <oc:name>Bone 12416</oc:name>
+        <oc:id>9B978C2D-ACEE-44A7-87B6-77F9247D0906</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ilium</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6BFFCF9F-D0EE-4CA7-6DF9-5B915D92A1A2">
+        <oc:name>Bone 12417</oc:name>
+        <oc:id>6BFFCF9F-D0EE-4CA7-6DF9-5B915D92A1A2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ischium</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B246786E-004A-4907-C2DF-65B8FCD3F5E2">
+        <oc:name>Bone 12418</oc:name>
+        <oc:id>B246786E-004A-4907-C2DF-65B8FCD3F5E2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ilium</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A4493A17-CFFA-40AE-5D8E-48DDA4BE232B">
+        <oc:name>Bone 12419</oc:name>
+        <oc:id>A4493A17-CFFA-40AE-5D8E-48DDA4BE232B</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>ilium</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A3F26A55-8B4B-4990-7372-ADB1830D68E7">
+        <oc:name>Bone 12420</oc:name>
+        <oc:id>A3F26A55-8B4B-4990-7372-ADB1830D68E7</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>pubis</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CB7DE440-3B61-46CF-5F29-0642660D5125">
+        <oc:name>Bone 12421</oc:name>
+        <oc:id>CB7DE440-3B61-46CF-5F29-0642660D5125</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>pubis</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/65321985-2D3A-4234-8F56-57904F260D8D">
+        <oc:name>Bone 12422</oc:name>
+        <oc:id>65321985-2D3A-4234-8F56-57904F260D8D</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>pubis</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DD2C9AE7-C6A8-4C23-59AF-32E9AFCACAEC">
+        <oc:name>Bone 12423</oc:name>
+        <oc:id>DD2C9AE7-C6A8-4C23-59AF-32E9AFCACAEC</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tibia</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A37DECE3-634A-41B6-B021-D7D3E218618D">
+        <oc:name>Bone 12424</oc:name>
+        <oc:id>A37DECE3-634A-41B6-B021-D7D3E218618D</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tibia</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/64467DCF-0C77-47A8-B135-177F5E7CCCD1">
+        <oc:name>Bone 12425</oc:name>
+        <oc:id>64467DCF-0C77-47A8-B135-177F5E7CCCD1</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tibia</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/01E64122-C738-402B-259F-78A5FED1E96D">
+        <oc:name>Bone 12426</oc:name>
+        <oc:id>01E64122-C738-402B-259F-78A5FED1E96D</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tibia</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DEE48455-7872-4D89-710F-CFE363F6E393">
+        <oc:name>Bone 12427</oc:name>
+        <oc:id>DEE48455-7872-4D89-710F-CFE363F6E393</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tibia</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4F1DBF7F-FFDA-468D-F48D-8DDED03A9EF1">
+        <oc:name>Bone 12428</oc:name>
+        <oc:id>4F1DBF7F-FFDA-468D-F48D-8DDED03A9EF1</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tibia</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3F443DBD-3BD8-4321-5ABE-EF7FFAEA04B8">
+        <oc:name>Bone 12429</oc:name>
+        <oc:id>3F443DBD-3BD8-4321-5ABE-EF7FFAEA04B8</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metapodial, indeterminate</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/86E1E77C-7319-4B4B-FD8D-C3D5B929561A">
+        <oc:name>Bone 12430</oc:name>
+        <oc:id>86E1E77C-7319-4B4B-FD8D-C3D5B929561A</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metapodial, indeterminate</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B05D909D-3F68-4F52-167A-6D9082987D46">
+        <oc:name>Bone 12431</oc:name>
+        <oc:id>B05D909D-3F68-4F52-167A-6D9082987D46</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metapodial, indeterminate</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/83F5EB89-D786-47AD-6637-5C7E1017F744">
+        <oc:name>Bone 12432</oc:name>
+        <oc:id>83F5EB89-D786-47AD-6637-5C7E1017F744</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metacarpus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5C87CECD-0CE2-4B22-0AB0-F8A43FE6738B">
+        <oc:name>Bone 12433</oc:name>
+        <oc:id>5C87CECD-0CE2-4B22-0AB0-F8A43FE6738B</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metacarpus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9FD84509-64F6-4B2E-9F16-CEC8F3320CFE">
+        <oc:name>Bone 12434</oc:name>
+        <oc:id>9FD84509-64F6-4B2E-9F16-CEC8F3320CFE</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metatarsus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/98831302-76BA-48B7-D220-F957CF9EE2B2">
+        <oc:name>Bone 12435</oc:name>
+        <oc:id>98831302-76BA-48B7-D220-F957CF9EE2B2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metatarsus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2F352B9D-F593-46BB-5509-5D3D787355B3">
+        <oc:name>Bone 12436</oc:name>
+        <oc:id>2F352B9D-F593-46BB-5509-5D3D787355B3</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metatarsus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/287EF318-16DE-4E29-21B2-E56E93029BAB">
+        <oc:name>Bone 12437</oc:name>
+        <oc:id>287EF318-16DE-4E29-21B2-E56E93029BAB</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metatarsus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0D564B8B-D7AC-4923-5516-7A20702D0735">
+        <oc:name>Bone 12438</oc:name>
+        <oc:id>0D564B8B-D7AC-4923-5516-7A20702D0735</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metatarsus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/500EA078-D2F4-42B0-6985-7A696596432C">
+        <oc:name>Bone 12439</oc:name>
+        <oc:id>500EA078-D2F4-42B0-6985-7A696596432C</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metacarpus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5441E99C-323F-4EC5-4706-75F57D091C30">
+        <oc:name>Bone 12440</oc:name>
+        <oc:id>5441E99C-323F-4EC5-4706-75F57D091C30</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metapodial, indeterminate</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/210C09DB-6EEF-4C0B-F613-C6F23E649B07">
+        <oc:name>Bone 12441</oc:name>
+        <oc:id>210C09DB-6EEF-4C0B-F613-C6F23E649B07</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metacarpus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2047B4C1-714A-4530-C411-219411669F95">
+        <oc:name>Bone 12442</oc:name>
+        <oc:id>2047B4C1-714A-4530-C411-219411669F95</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metatarsus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9F7982A4-3CE6-45A4-B3C4-B9A136F57AD5">
+        <oc:name>Bone 12443</oc:name>
+        <oc:id>9F7982A4-3CE6-45A4-B3C4-B9A136F57AD5</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metatarsus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6E5BD758-C356-44BC-FA6E-F0032D5FC02A">
+        <oc:name>Bone 12444</oc:name>
+        <oc:id>6E5BD758-C356-44BC-FA6E-F0032D5FC02A</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metatarsus III + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0AF73D30-78A6-43CA-BD7B-8AA89A694184">
+        <oc:name>Bone 12445</oc:name>
+        <oc:id>0AF73D30-78A6-43CA-BD7B-8AA89A694184</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>metapodial, indeterminate</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4D4BB7AD-7BD3-4A12-4F53-FFA783E4ACD1">
+        <oc:name>Bone 12446</oc:name>
+        <oc:id>4D4BB7AD-7BD3-4A12-4F53-FFA783E4ACD1</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/17D57B76-E656-4E9B-736B-07894FD152F9">
+        <oc:name>Bone 12447</oc:name>
+        <oc:id>17D57B76-E656-4E9B-736B-07894FD152F9</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5ACC4C37-109E-4EF0-69FC-44E6764AED70">
+        <oc:name>Bone 12448</oc:name>
+        <oc:id>5ACC4C37-109E-4EF0-69FC-44E6764AED70</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3226D3D4-3B0E-4EF8-DDCC-433DFDC35341">
+        <oc:name>Bone 12449</oc:name>
+        <oc:id>3226D3D4-3B0E-4EF8-DDCC-433DFDC35341</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/87C493F4-9DB4-4FF2-E2E5-ECF800309F73">
+        <oc:name>Bone 12450</oc:name>
+        <oc:id>87C493F4-9DB4-4FF2-E2E5-ECF800309F73</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0EC0D1D3-8A09-4BA4-FC0C-E8A9E0214361">
+        <oc:name>Bone 12451</oc:name>
+        <oc:id>0EC0D1D3-8A09-4BA4-FC0C-E8A9E0214361</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D3A71617-3C5C-4239-7F77-9BA2095EBD41">
+        <oc:name>Bone 12452</oc:name>
+        <oc:id>D3A71617-3C5C-4239-7F77-9BA2095EBD41</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B05ED015-EFDF-40C8-BA44-E22D042EE5CB">
+        <oc:name>Bone 12453</oc:name>
+        <oc:id>B05ED015-EFDF-40C8-BA44-E22D042EE5CB</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8929EA2A-4FEE-419A-87B9-972A3DEEEA90">
+        <oc:name>Bone 12454</oc:name>
+        <oc:id>8929EA2A-4FEE-419A-87B9-972A3DEEEA90</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D2AAD9D7-E3EF-45EA-A60F-DC7259838052">
+        <oc:name>Bone 12455</oc:name>
+        <oc:id>D2AAD9D7-E3EF-45EA-A60F-DC7259838052</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E5012AA6-0617-41EE-1862-A71279B4E400">
+        <oc:name>Bone 12456</oc:name>
+        <oc:id>E5012AA6-0617-41EE-1862-A71279B4E400</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0DA75D11-C4AB-463D-A2BC-5867EAA19DE5">
+        <oc:name>Bone 12457</oc:name>
+        <oc:id>0DA75D11-C4AB-463D-A2BC-5867EAA19DE5</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/64D9E998-45F2-4290-5F02-38BF6E7E68FE">
+        <oc:name>Bone 12458</oc:name>
+        <oc:id>64D9E998-45F2-4290-5F02-38BF6E7E68FE</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/36C7AC99-9391-4E1B-C579-D3382B958DCE">
+        <oc:name>Bone 12459</oc:name>
+        <oc:id>36C7AC99-9391-4E1B-C579-D3382B958DCE</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/998FC48A-AF05-4958-4F42-86214324C87E">
+        <oc:name>Bone 12460</oc:name>
+        <oc:id>998FC48A-AF05-4958-4F42-86214324C87E</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A47CFAAE-5BC1-4BC7-FDAB-E2C91F4974D3">
+        <oc:name>Bone 12461</oc:name>
+        <oc:id>A47CFAAE-5BC1-4BC7-FDAB-E2C91F4974D3</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6CF90784-1D01-4476-BE5E-447C361A366B">
+        <oc:name>Bone 12462</oc:name>
+        <oc:id>6CF90784-1D01-4476-BE5E-447C361A366B</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4468647B-A17A-4A7C-EF27-DE63BA9922BE">
+        <oc:name>Bone 12463</oc:name>
+        <oc:id>4468647B-A17A-4A7C-EF27-DE63BA9922BE</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1DDAE311-955A-485A-BB35-CB1464D2C437">
+        <oc:name>Bone 12464</oc:name>
+        <oc:id>1DDAE311-955A-485A-BB35-CB1464D2C437</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C8B17B22-583F-46FB-431B-F67428D35285">
+        <oc:name>Bone 12465</oc:name>
+        <oc:id>C8B17B22-583F-46FB-431B-F67428D35285</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2FED20AA-8932-4A0B-B0DB-67EA64BEF204">
+        <oc:name>Bone 12466</oc:name>
+        <oc:id>2FED20AA-8932-4A0B-B0DB-67EA64BEF204</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/25447A3F-C022-4377-6031-68E7350A76D2">
+        <oc:name>Bone 12467</oc:name>
+        <oc:id>25447A3F-C022-4377-6031-68E7350A76D2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EF4DE2ED-E74B-42B4-5283-41A7A1BC61E7">
+        <oc:name>Bone 12468</oc:name>
+        <oc:id>EF4DE2ED-E74B-42B4-5283-41A7A1BC61E7</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F54D06F5-55EA-4C7F-5728-C2386C3B5C2E">
+        <oc:name>Bone 12469</oc:name>
+        <oc:id>F54D06F5-55EA-4C7F-5728-C2386C3B5C2E</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B1E1EF9E-737C-4FD0-C238-F16014D79DDC">
+        <oc:name>Bone 12470</oc:name>
+        <oc:id>B1E1EF9E-737C-4FD0-C238-F16014D79DDC</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/054FA50D-E6E0-44B3-049F-25367B0C8271">
+        <oc:name>Bone 12471</oc:name>
+        <oc:id>054FA50D-E6E0-44B3-049F-25367B0C8271</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>phalanx 3</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FEFF806A-0E30-4E07-9D7D-1246779237BD">
+        <oc:name>Bone 12472</oc:name>
+        <oc:id>FEFF806A-0E30-4E07-9D7D-1246779237BD</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>astragalus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9B104540-A0D9-49EE-7DDA-A1D6A2D01D58">
+        <oc:name>Bone 12473</oc:name>
+        <oc:id>9B104540-A0D9-49EE-7DDA-A1D6A2D01D58</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>astragalus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C007F36B-80C3-42FC-043E-0B90BD83E735">
+        <oc:name>Bone 12474</oc:name>
+        <oc:id>C007F36B-80C3-42FC-043E-0B90BD83E735</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>astragalus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DB3E582C-473F-4B89-D249-59C4BC536F9E">
+        <oc:name>Bone 12475</oc:name>
+        <oc:id>DB3E582C-473F-4B89-D249-59C4BC536F9E</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>astragalus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/900627CD-E477-4909-6EBF-D28222985FC9">
+        <oc:name>Bone 12476</oc:name>
+        <oc:id>900627CD-E477-4909-6EBF-D28222985FC9</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>astragalus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BAA2B6D8-EB58-4969-9D23-9124228B3D00">
+        <oc:name>Bone 12477</oc:name>
+        <oc:id>BAA2B6D8-EB58-4969-9D23-9124228B3D00</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>astragalus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1DF92AE9-6F09-4A91-D9FF-A620798C8996">
+        <oc:name>Bone 12478</oc:name>
+        <oc:id>1DF92AE9-6F09-4A91-D9FF-A620798C8996</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>calcaneus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3A264E56-A556-49CA-425D-0C700C19FA9D">
+        <oc:name>Bone 12479</oc:name>
+        <oc:id>3A264E56-A556-49CA-425D-0C700C19FA9D</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>calcaneus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E65D8402-ACF0-415B-1992-A02EC85707CC">
+        <oc:name>Bone 12480</oc:name>
+        <oc:id>E65D8402-ACF0-415B-1992-A02EC85707CC</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>calcaneus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0B1BE171-B6AC-4908-2941-CFCDCCF3315A">
+        <oc:name>Bone 12481</oc:name>
+        <oc:id>0B1BE171-B6AC-4908-2941-CFCDCCF3315A</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>radial carpal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4043D01B-8CA7-4564-2768-43643CCA2545">
+        <oc:name>Bone 12482</oc:name>
+        <oc:id>4043D01B-8CA7-4564-2768-43643CCA2545</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>radial carpal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F5EB03AE-12D3-4CC7-5A92-614EC519F515">
+        <oc:name>Bone 12483</oc:name>
+        <oc:id>F5EB03AE-12D3-4CC7-5A92-614EC519F515</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>radial carpal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E199BF8B-F443-46A5-1BC7-126B5C844AB5">
+        <oc:name>Bone 12484</oc:name>
+        <oc:id>E199BF8B-F443-46A5-1BC7-126B5C844AB5</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>intermediate carpal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/94100B07-4DB2-4B12-5DF9-C3ED35B373B5">
+        <oc:name>Bone 12485</oc:name>
+        <oc:id>94100B07-4DB2-4B12-5DF9-C3ED35B373B5</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>carpal III</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/659329E5-2BEC-42E9-7ED4-742F9862B23F">
+        <oc:name>Bone 12486</oc:name>
+        <oc:id>659329E5-2BEC-42E9-7ED4-742F9862B23F</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tarsal III</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E5978AE5-6B2C-45E8-87F4-A0B252E45C1B">
+        <oc:name>Bone 12487</oc:name>
+        <oc:id>E5978AE5-6B2C-45E8-87F4-A0B252E45C1B</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>carpal II + III</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5F3AFEBA-D670-458D-50C5-C7D475D35D3B">
+        <oc:name>Bone 12488</oc:name>
+        <oc:id>5F3AFEBA-D670-458D-50C5-C7D475D35D3B</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tarsal central + IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B45F5448-FCD1-4FD5-DF06-0F578314C3B2">
+        <oc:name>Bone 12489</oc:name>
+        <oc:id>B45F5448-FCD1-4FD5-DF06-0F578314C3B2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>carpal IV</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A19CDF59-96F6-48A8-12BF-44025901EEC8">
+        <oc:name>Bone 12490</oc:name>
+        <oc:id>A19CDF59-96F6-48A8-12BF-44025901EEC8</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>patella</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/ADFD90EC-951A-4DE5-D6F3-B282807BE3B1">
+        <oc:name>Bone 12491</oc:name>
+        <oc:id>ADFD90EC-951A-4DE5-D6F3-B282807BE3B1</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>intermediate carpal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F8C1756D-2623-4318-DBA4-DCAB54BA3DF6">
+        <oc:name>Bone 12492</oc:name>
+        <oc:id>F8C1756D-2623-4318-DBA4-DCAB54BA3DF6</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>calcaneus</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D891A144-8420-4000-954E-2E787A75D2FD">
+        <oc:name>Bone 12493</oc:name>
+        <oc:id>D891A144-8420-4000-954E-2E787A75D2FD</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>loose tooth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4C65DD12-1EED-4187-9A21-DC4434F43CF8">
+        <oc:name>Bone 12494</oc:name>
+        <oc:id>4C65DD12-1EED-4187-9A21-DC4434F43CF8</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>maxilla with teeth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/223E60CB-0DD4-46F7-B9D9-568E2093F0CA">
+        <oc:name>Bone 12495</oc:name>
+        <oc:id>223E60CB-0DD4-46F7-B9D9-568E2093F0CA</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>tooth in maxilla</oc:descriptor>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Köşk Höyük Faunal Data: Level III (Stratum)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-05-17</dc:date>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Pastoralism</dc:subject>
+    <dc:subject>Faunal data, Mammal Remains, Chalcolithic, Village, Central Anatolia</dc:subject>
+    <dc:subject>Köşk Höyük</dc:subject>
+    <dc:subject>Equids</dc:subject>
+    <dc:subject>Animal Economy</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/2C4A531B-250C-4420-DA62-3C8CFD23F926">Benjamin S. Arbuckle</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/5D645628-A6D1-4D6B-6ED7-F965E83CE147</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/05F5B702-2967-49B1-FEAA-9B2AA0184513">Köşk Höyük Faunal Data</oc:project_name>
+    <oc:pub_date>2013-05-17T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=K%C3%B6%C5%9Fk+H%C3%B6y%C3%BCk+Faunal+Data%3A+Level+III+%28Stratum%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Turkey&amp;rft.subject=Zooarchaeology&amp;rft.subject=Pastoralism&amp;rft.subject=Faunal+data%2C+Mammal+Remains%2C+Chalcolithic%2C+Village%2C+Central+Anatolia&amp;rft.subject=K%C3%B6%C5%9Fk+H%C3%B6y%C3%BCk&amp;rft.subject=Equids&amp;rft.subject=Animal+Economy&amp;rft.creator=Benjamin+S.+Arbuckle&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F5D645628-A6D1-4D6B-6ED7-F965E83CE147</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.84779</oc:geo_lat>
+      <oc:geo_long>34.611821</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/E842F47E-9C61-48C3-0D0D-A35238304F52">
+        <oc:source_name>Köşk Höyük</oc:source_name>
+        <oc:source_id>E842F47E-9C61-48C3-0D0D-A35238304F52</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-05-18T20:50:50-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/05/18 20:50:50</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,200 BCE - 5,500 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6200</oc:time_start>
+          <oc:time_finish>-5500</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/E842F47E-9C61-48C3-0D0D-A35238304F52">
+            <oc:source_name>Köşk Höyük</oc:source_name>
+            <oc:source_id>E842F47E-9C61-48C3-0D0D-A35238304F52</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-02-28T17:35:06-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
