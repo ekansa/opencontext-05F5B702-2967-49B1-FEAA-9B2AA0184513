@@ -72,7 +72,6 @@
 
             <li><strong>Recording system:</strong>
             Standard zooarchaeological data were recorded for all taxa; in some cases only sheep and goats were initially recorded from some samples. See <a href="http://opencontext.org/properties/D7627CCA-5180-4D45-5953-3100251C65BF">sampling notes</a>.</li>
-
         </ul>
 
         
@@ -225,7 +224,12 @@
             </div>
         
         </div>
-            
+         <h5>Image Credit</h5>
+<p class="muted">
+Credit for this project's illustrative image
+<a href="http://commons.wikimedia.org/wiki/File:NigdeMuseumK%C3%B6skHaus.jpg">Wikimedia</a>
+(CC-BY-SA)
+</p>   
     </div></div>
       </arch:string>
     </arch:note>
@@ -233,7 +237,7 @@
   <oc:metadata>
     <dc:title>Köşk Höyük Faunal Data: (Overview)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2013-05-17</dc:date>
+    <dc:date>2013-06-04</dc:date>
     <dc:subject>Turkey</dc:subject>
     <dc:subject>Zooarchaeology</dc:subject>
     <dc:subject>Pastoralism</dc:subject>
@@ -243,8 +247,9 @@
     <dc:subject>Animal Economy</dc:subject>
     <dc:creator href="http://opencontext.org/persons/2C4A531B-250C-4420-DA62-3C8CFD23F926">Benjamin S. Arbuckle</dc:creator>
     <dc:identifier>http://opencontext.org/projects/05F5B702-2967-49B1-FEAA-9B2AA0184513</dc:identifier>
+    <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M74Q7RW8">10.6078/M74Q7RW8</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/05F5B702-2967-49B1-FEAA-9B2AA0184513">Köşk Höyük Faunal Data</oc:project_name>
-    <oc:pub_date>2013-05-17T00:00:00-07:00</oc:pub_date>
-    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=K%C3%B6%C5%9Fk+H%C3%B6y%C3%BCk+Faunal+Data%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Turkey&amp;rft.subject=Zooarchaeology&amp;rft.subject=Pastoralism&amp;rft.subject=Faunal+data%2C+Mammal+Remains%2C+Chalcolithic%2C+Village%2C+Central+Anatolia&amp;rft.subject=K%C3%B6%C5%9Fk+H%C3%B6y%C3%BCk&amp;rft.subject=Equids&amp;rft.subject=Animal+Economy&amp;rft.creator=Benjamin+S.+Arbuckle&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F05F5B702-2967-49B1-FEAA-9B2AA0184513</oc:coins>
+    <oc:pub_date>2013-06-04T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=K%C3%B6%C5%9Fk+H%C3%B6y%C3%BCk+Faunal+Data%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Turkey&amp;rft.subject=Zooarchaeology&amp;rft.subject=Pastoralism&amp;rft.subject=Faunal+data%2C+Mammal+Remains%2C+Chalcolithic%2C+Village%2C+Central+Anatolia&amp;rft.subject=K%C3%B6%C5%9Fk+H%C3%B6y%C3%BCk&amp;rft.subject=Equids&amp;rft.subject=Animal+Economy&amp;rft.creator=Benjamin+S.+Arbuckle&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F05F5B702-2967-49B1-FEAA-9B2AA0184513&amp;rft.identifier=DOI%3A10.6078%2FM74Q7RW8</oc:coins>
   </oc:metadata>
-</arch:project>
+</arch:project>    
